@@ -1,0 +1,23 @@
+{
+  "name": "create-an-e-commerce-app-(part-one)",
+  "version": "1.0.0",
+  "description": "E-commerce REST API built with Node.js, Express, and PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Promatheusz/ecommerce-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Promatheusz/ecommerce-rest-api/issues"
+  },
+  "homepage": "https://github.com/Promatheusz/ecommerce-rest-api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
